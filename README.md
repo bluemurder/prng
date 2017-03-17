@@ -1,2 +1,2 @@
 # prng
-C++ class for pseudorandom number generation
+Linear Congurential Generator proposed by Lewis, Goodman and Miller in 1969
